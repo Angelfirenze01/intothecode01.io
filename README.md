@@ -6,6 +6,6 @@ I found out today that I've enjoyed the course a lot more while thinking up my o
 
 <img src="http://img.photobucket.com/albums/v204/Angelfirenze/Team%20Treehouse/Treehouse-Logo-Outlines_zpse2fmsdyp.png"> 
 
-*(The original course, not the subsequent rewrite)
+*(The original course taught by @nickpettit, not the subsequent rewrite starring @treasureporth)
 
 <center>&copy 2017 Treehouse Island, Inc.</center>
