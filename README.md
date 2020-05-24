@@ -4,6 +4,6 @@ I realized it was a lot more interesting, not to mention much more fun, if I use
 
 I found out today that I've enjoyed the course a lot more while thinking up <a href="https://github.com/Angelfirenze01/intothecode01.tech" target="_blank">my own website</a> to impart upon the original stylesheet.
 
-<img src="http://img.photobucket.com/albums/v204/Angelfirenze/Team%20Treehouse/Treehouse-Logo-Outlines_zpse2fmsdyp.png"> 
+<img src="https://img.photobucket.com/albums/v204/Angelfirenze/Team%20Treehouse/Treehouse-Logo-Outlines_zpse2fmsdyp.png"> 
 
 <center>&copy 2020 Treehouse Island, Inc.</center>
